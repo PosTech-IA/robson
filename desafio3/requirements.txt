@@ -1,2 +1,2 @@
 pip install "unsloth[windows] @ git+https://github.com/unslothai/unsloth.git"
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
