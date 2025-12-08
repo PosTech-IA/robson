@@ -1,3 +1,11 @@
 .venv
 _pycache_
 unsloth_compiled_cache
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.DS_Store
+logs/
+database.db
